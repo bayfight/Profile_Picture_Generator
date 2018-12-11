@@ -1,0 +1,15 @@
+#cardRobot{
+    width: 700px;
+    height: 490px;
+    background-color: aqua;
+}
+
+.ml{
+    margin-left: 15%;
+}
+
+input[type=text] {
+    background-color: white;
+    border-radius: 4px;
+    width: 210px;
+  }
